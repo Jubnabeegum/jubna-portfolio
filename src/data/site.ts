@@ -23,9 +23,9 @@ export const siteConfig = {
     "Git collaboration & API testing with Postman",
   ],
   links: {
-    github: "https://github.com/your-username",
-    linkedin: "https://www.linkedin.com/in/your-profile",
-    resume: "/resume.pdf",
+    github: "https://github.com/Jubnabeegum",
+    linkedin: "https://www.linkedin.com/in/jubna-beegum-321472148/",
+    resume: "/jubnabeegum.pdf",
     externshipGithub:
       "https://github.com/smartinternz02/SI-GuidedProject-8620-1645179153",
   },
@@ -160,7 +160,7 @@ export const projects: ProjectItem[] = [
       "Axios",
     ],
     liveUrl: "https://example.com/book-marketplace",
-    githubUrl: "https://github.com/your-username/book-marketplace",
+    githubUrl: "https://github.com/Jubnabeegum/bookworm",
     featured: true,
   },
   {
@@ -196,7 +196,7 @@ export const projects: ProjectItem[] = [
       "AI",
     ],
     liveUrl: "https://example.com/reqflow",
-    githubUrl: "https://github.com/your-username/reqflow",
+    githubUrl: "https://github.com/Jubnabeegum/Reqflow-app",
   },
   {
     title: "Project Title",

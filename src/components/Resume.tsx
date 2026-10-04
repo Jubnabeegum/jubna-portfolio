@@ -39,7 +39,7 @@ export function Resume() {
               Download Resume
             </a>
             <p className="mt-4 font-mono text-xs text-slate-500">
-              {"// Placeholder PDF — replace /public/resume.pdf with your real resume"}
+              {"// Placeholder PDF — replace /public/.pdf with your real resume"}
             </p>
           </div>
 
